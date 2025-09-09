@@ -1,0 +1,16 @@
+2025-09-09 04:59:54,802 - INFO - Database initialized with admin user
+2025-09-09 05:00:59,103 - WARNING - Invalid login attempt: admin
+2025-09-09 05:01:57,271 - WARNING - Duplicate username or email: abdelkhalk, abdelkhalk@gmail.com
+2025-09-09 05:02:12,364 - WARNING - Invalid login attempt: abdelkhalk
+2025-09-09 05:02:39,764 - INFO - User logged in: admin
+2025-09-09 05:08:00,659 - INFO - Database initialized with admin user
+2025-09-09 05:08:11,451 - INFO - User logged out
+2025-09-09 05:08:25,650 - WARNING - Invalid login attempt: abdelkhalk
+2025-09-09 05:08:33,348 - WARNING - Invalid login attempt: abdelkhalk
+2025-09-09 05:08:39,169 - WARNING - Invalid login attempt: abdelkhalk
+2025-09-09 05:09:06,394 - INFO - User registered successfully: kawtar
+2025-09-09 05:09:17,523 - INFO - User logged in: kawtar
+2025-09-09 05:09:23,236 - INFO - Part added to panel: 3
+2025-09-09 05:09:24,670 - INFO - Part added to panel: 4
+2025-09-09 05:09:26,119 - INFO - Part added to panel: 1
+2025-09-09 05:09:45,654 - INFO - User logged out
