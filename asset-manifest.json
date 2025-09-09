@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/React_Flask_E-commerce_website/static/css/main.dc614051.css",
-    "main.js": "/React_Flask_E-commerce_website/static/js/main.e2b237dc.js",
+    "main.js": "/React_Flask_E-commerce_website/static/js/main.226ffcb4.js",
     "static/media/back.jpg": "/React_Flask_E-commerce_website/static/media/back.833b1243acc6edb3d8e1.jpg",
     "static/media/gears.png": "/React_Flask_E-commerce_website/static/media/gears.3d77183003cf10b23261.png",
     "index.html": "/React_Flask_E-commerce_website/index.html",
     "main.dc614051.css.map": "/React_Flask_E-commerce_website/static/css/main.dc614051.css.map",
-    "main.e2b237dc.js.map": "/React_Flask_E-commerce_website/static/js/main.e2b237dc.js.map"
+    "main.226ffcb4.js.map": "/React_Flask_E-commerce_website/static/js/main.226ffcb4.js.map"
   },
   "entrypoints": [
     "static/css/main.dc614051.css",
-    "static/js/main.e2b237dc.js"
+    "static/js/main.226ffcb4.js"
   ]
 }
