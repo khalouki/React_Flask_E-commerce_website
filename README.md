@@ -53,7 +53,7 @@ The project demonstrates **full-stack development**, including **security best p
 
 ## 🚀 Live Demo
 
-- 🌐 Frontend: [Deployed on Vercel/Netlify](#)  
+- 🌐 Frontend: https://khalouki.github.io/React_Flask_E-commerce_website/
 - ⚙️ Backend API: [Deployed on Render/Railway](#)  
 
 *(Replace `#` with your real links once deployed)*
