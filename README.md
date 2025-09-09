@@ -21,11 +21,12 @@ The project demonstrates **full-stack development**, including **security best p
 
 ## 🖼️ Screenshots
 
-👉 *(Replace the placeholders with your own images)*
-
-![Homepage Screenshot](./assets/homepage.png)  
-![Product Page Screenshot](./assets/product.png)  
-![Checkout Screenshot](./assets/checkout.png)  
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/feb2e997-c1fb-4174-88e7-861734d7001b" width="450" />
+  <img src="https://github.com/user-attachments/assets/98ab252c-7cc9-44f0-96d5-36e1c3634e8d" width="450" />
+  <img src="https://github.com/user-attachments/assets/974b07d8-cc1d-4f75-a61f-bc6300249a7c" width="450" />
+  <img src="https://github.com/user-attachments/assets/12058a59-6176-414f-8393-fcfe7c876e89" width="450" />
+</p>
 
 ---
 
